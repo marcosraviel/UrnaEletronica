@@ -2,4 +2,4 @@
 
 Simples simulador da urna eletrônica.
 
-![Urna Eletrônica](UrnaEletronica/print_screen.png)
+![Urna Eletrônica](print_screen.png)
